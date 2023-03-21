@@ -1,2 +1,0 @@
-# lankatenders
-React Project
